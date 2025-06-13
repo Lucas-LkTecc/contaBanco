@@ -1,5 +1,11 @@
+import java.util.Scanner;
+
 public class contaTerminal {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        //TODO: 
+
+        Scanner sc = new Scanner(System.in);
+
+
     }
 }
